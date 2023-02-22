@@ -1,0 +1,18 @@
+fecha;monto;tipo;movimiento
+2023-01-01;32000;egreso;comun
+2023-01-03;50000;egreso;plazo fijo
+2023-01-02;700;egreso;comun
+2023-01-13;400;ingreso;comun
+2023-01-16;120000;egreso;plazo fijo
+2023-01-19;40000;ingreso;comun
+2023-01-21;560;egreso;comun
+2023-02-01;50900;ingreso;comun
+2023-02-02;400;ingreso;comun
+2023-02-11;900;ingreso;comun
+2023-02-14;200000;ingreso;comun
+2023-02-15;70000;egreso;comun
+2023-02-16;50000;egreso;comun
+2023-02-19;120000;egreso;plazo fijo
+2023-02-20;400;ingreso;comun
+2023-02-20;230;ingreso;comun
+2023-02-21;560;egreso;comun
